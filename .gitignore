@@ -1,0 +1,9 @@
+# Exclude source manuscripts and assets from this public release repo
+manuscript/
+images/
+cover-first.png
+cover-last.png
+From_Tool_to_Teammate_Full_Manuscript.md
+temp*
+node_modules/
+*.log
