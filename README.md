@@ -7,9 +7,9 @@ A comprehensive, non-technical exploration of artificial intelligence’s greate
 
 ---
 
-### 📖 Read the Book
+### Read the Book
 The complete, publication-ready first edition is available directly in this repository:
-- **[From_Tool_to_Teammate_Book.pdf](From_Tool_to_Teammate_Book.pdf)** (104 pages, full-bleed design, illustrations & plates)
+- **[From_Tool_to_Teammate_Book.pdf](From_Tool_to_Teammate_Book.pdf)** (139 pages, full-bleed design, illustrations & plates)
 
 ---
 *First Edition • 2026*
